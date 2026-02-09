@@ -26,4 +26,52 @@ Lag selection is performed using:
 
 ---
 
-## 📂 Project Structure
+## 🗂️ Dataset Description
+- **Source:** Synthetic stock price dataset
+- **Columns:**
+  - `Date` – Trading date
+  - `Close` – Closing stock price
+- **Frequency:** Daily
+- **Missing Values:** None
+
+---
+
+## ⚙️ Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Statsmodels
+- Scikit-learn
+- Jupyter Notebook
+
+---
+
+## 📈 Methodology
+1. Load and preprocess the stock price dataset
+2. Visualize time series behavior
+3. Analyze stationarity and correlations
+4. Plot ACF and PACF to determine lag order
+5. Fit AR and MA models
+6. Compare models using AIC and BIC
+7. Perform residual diagnostics
+8. Interpret results and conclusions
+
+---
+
+## ✅ Results
+- AR and MA models successfully captured short-term dependencies
+- Optimal lag selection improved model performance
+- Residual diagnostics confirmed model adequacy
+- The project demonstrates the effectiveness of classical time series models in financial analysis
+
+---
+
+## 🔍 Conclusion
+This project highlights the importance of time series modeling in financial analytics. AR and MA models provide a solid statistical framework for understanding stock price movements and serve as a foundation for more advanced forecasting techniques.
+
+---
+
+
+
+
