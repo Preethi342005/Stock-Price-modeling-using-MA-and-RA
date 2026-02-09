@@ -10,7 +10,6 @@ Traditional statistical and trend-based approaches are inadequate for modeling s
 - Capture temporal dependencies
 - Utilize historical information efficiently
 - Provide diagnostic measures to evaluate model quality
-
 This project addresses these challenges using AR and MA models.
 
 
